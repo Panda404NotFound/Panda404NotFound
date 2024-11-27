@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Panda404NotFound/Panda404NotFound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Wake up Neo Message в зеленом стиле матрицы -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=6000&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Wake+up...+Neo..." alt="Wake up Neo"/></a>
 
-Here are some ideas to get you started:
+<!-- System Messages в зеленом стиле матрицы -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=500&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=180&lines=Initializing+System...;Establishing+Connection...;Identity+Verified%3A+Panda404NotFound;System+Status%3A+AWAKENED;Mission%3A+Code.+Create.+Conquer.;Warning%3A+Reality+Is+Just+A+Simulation" alt="System Messages"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Stats Section в стиле ситхов -->
+<img src="https://github-readme-stats.vercel.app/api?username=Panda404NotFound&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=32CD32&text_color=DC143C"/>
+
+## ⌨️ Code Analysis
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda404NotFound&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=DC143C&layout=compact"/>
+
+<!-- Matrix Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+## 🌌 Digital Presence
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panda404NotFound&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=32CD32&currStreakNum=DC143C&sideNums=DC143C&currStreakLabel=FF0000&sideLabels=FF0000&dates=32CD32)](https://git.io/streak-stats)
+
+<!-- Sith Matrix Contact -->
+<div align="center">
+  <a href="https://t.me/brahman_brahman">
+    <img src="https://img.shields.io/badge/Telegram-Connect_in_Matrix-FF0000?style=for-the-badge&logo=telegram&logoColor=DC143C&labelColor=0D1117&color=0D1117"/>
+  </a>
+</div>
+
+</div>
