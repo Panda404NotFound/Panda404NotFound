@@ -14,17 +14,17 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda404NotFound&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=DC143C&layout=compact"/>
 <!-- Neon Skills -->
 <div>
-  <img src="https://skillicons.dev/icons?i=rust,python,shell,docker,javascript&theme=dark&perline=4" />
-</div>
-
-<!-- Matrix Snake Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://skillicons.dev/icons?i=rust,python,docker,typescript&theme=dark&perline=4" />
 </div>
 
 ## 🌌 Digital Presence
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panda404NotFound&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=32CD32&currStreakNum=DC143C&sideNums=DC143C&currStreakLabel=FF0000&sideLabels=FF0000&dates=32CD32)](https://git.io/streak-stats)
+
+<!-- Matrix Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 
 <!-- Sith Matrix Contact -->
 <div align="center">
