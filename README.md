@@ -8,7 +8,7 @@
 
 
 <!-- System Messages в зеленом стиле матрицы -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=500&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=180&lines=Initializing+System...;Establishing+Connection...;Identity+Verified%3A+Panda404NotFound;System+Status%3A+AWAKENED;Mission%3A+Code.+Create.+Conquer.;Warning%3A+Reality+Is+Just+A+Simulation" alt="System Messages"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=500&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=180&lines=Initializing+System...;Establishing+Connection...;Identity+Verified%3A+Brahman;System+Status%3A+AWAKENED;Mission%3A+Code.+Create.+Conquer.;Warning%3A+Reality+Is+Just+A+Simulation" alt="System Messages"/></a>
 
 <!-- Stats Section в стиле ситхов -->
 <img src="https://github-readme-stats.vercel.app/api?username=Panda404NotFound&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=32CD32&text_color=DC143C"/>
