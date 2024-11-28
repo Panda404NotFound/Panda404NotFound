@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wake up Neo Message в зеленом стиле матрицы -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=6000&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Wake+up...+Neo..." alt="Wake up Neo"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=35&duration=6000&pause=1000&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=Time+to...+Coding..." alt="Time to Coding"/></a>
 
 <div align="center">
     <img src="IMG_6451.jpeg" width="100%" alt="full-width-image"/>
