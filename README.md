@@ -6,6 +6,7 @@
 <div align="center">
     <img src="IMG_6451.jpeg" width="100%" alt="full-width-image"/>
 
+
 <!-- System Messages в зеленом стиле матрицы -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2000&pause=500&color=00FF00&background=0D1117&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=180&lines=Initializing+System...;Establishing+Connection...;Identity+Verified%3A+Panda404NotFound;System+Status%3A+AWAKENED;Mission%3A+Code.+Create.+Conquer.;Warning%3A+Reality+Is+Just+A+Simulation" alt="System Messages"/></a>
 
