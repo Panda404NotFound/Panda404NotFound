@@ -12,6 +12,10 @@
 ## ⌨️ Code Analysis
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda404NotFound&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=DC143C&layout=compact"/>
+<!-- Neon Skills -->
+<div>
+  <img src="https://skillicons.dev/icons?i=rust,python,docker&theme=dark&perline=4" />
+</div>
 
 <!-- Matrix Snake Animation -->
 <div align="center">
