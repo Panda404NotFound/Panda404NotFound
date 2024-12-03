@@ -20,8 +20,6 @@
   <img src="https://skillicons.dev/icons?i=rust,python,javascript,typescript&theme=dark&perline=4" />
 </div>
 
-## 🌌 Digital Presence
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panda404NotFound&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=32CD32&currStreakNum=DC143C&sideNums=DC143C&currStreakLabel=FF0000&sideLabels=FF0000&dates=32CD32)](https://git.io/streak-stats)
 
 <!-- Matrix Snake Animation -->
