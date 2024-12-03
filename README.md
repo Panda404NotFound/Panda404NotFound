@@ -17,7 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Panda404NotFound&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=DC143C&layout=compact"/>
 <!-- Neon Skills -->
 <div>
-  <img src="https://skillicons.dev/icons?i=rust,python,javascript,typescript,docker,go&theme=dark&perline=4" />
+  <img src="https://skillicons.dev/icons?i=rust,python,javascript,typescript&theme=dark&perline=4" />
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Panda404NotFound&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=32CD32&currStreakNum=DC143C&sideNums=DC143C&currStreakLabel=FF0000&sideLabels=FF0000&dates=32CD32)](https://git.io/streak-stats)
