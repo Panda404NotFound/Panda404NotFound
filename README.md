@@ -26,11 +26,7 @@
   <!-- Неоновая разделительная линия -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="filter: hue-rotate(330deg) brightness(1.5) saturate(1.5);" width="100%">
   
-  <!-- Stats Section в красном неоне -->
-  <div align="center" style="margin-top: 20px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.5);">
-    <h2 style="color: #FF0000; text-shadow: 0 0 5px #FF0000; margin-bottom: 20px;">SYSTEM METRICS</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=Panda404NotFound&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF3131&text_color=FF4444&rank_icon=github&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
-  </div>
+
   
   <!-- Code Analysis с красным неоном -->
   <div align="center" style="margin-top: 30px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.5);">
