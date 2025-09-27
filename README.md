@@ -84,7 +84,7 @@
   <div align="center" style="margin-top: 30px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.3);">
     <h2 style="color: #FF3131; text-shadow: 0 0 5px #FF3131; margin-bottom: 20px;">ENCRYPTED CHANNELS</h2>
     <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-      <a href="https://t.me/code_0110">
+      <a href="https://t.me/brahman_mev">
         <img src="https://img.shields.io/badge/Telegram-Connect_in_Matrix-FF0000?style=for-the-badge&logo=telegram&logoColor=FF4444&labelColor=0D1117&color=0D1117"/>
       </a>
       <a href="mailto:victor.gats.7@gmail.com">
