@@ -78,7 +78,7 @@
       <a href="https://t.me/brahman_mev">
         <img src="https://img.shields.io/badge/Telegram-Connect_in_Matrix-FF0000?style=for-the-badge&logo=telegram&logoColor=FF4444&labelColor=0D1117&color=0D1117"/>
       </a>
-      <a href="mailto:victor.gats.7@gmail.com">
+      <a href="mailto:brahmanmev@gmail.com">
         <img src="https://img.shields.io/badge/Email-Send_Neural_Signal-FF3131?style=for-the-badge&logo=gmail&logoColor=FF3131&labelColor=0D1117&color=0D1117"/>
       </a>
     </div>
