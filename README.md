@@ -56,15 +56,6 @@
 <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,vim,neovim&theme=dark&perline=6" />
 </div>
 </div>
-
-  
-  <!-- GitHub Streak с красным неоном -->
-  <div align="center" style="margin-top: 30px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.3);">
-    <h2 style="color: #FF3131; text-shadow: 0 0 5px #FF3131; margin-bottom: 20px;">NEURAL ACTIVITY</h2>
-    <a href="https://git.io/streak-stats">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=Panda404NotFound&theme=dark&hide_border=true&background=0D1117&stroke=FF0000&ring=FF3131&fire=FF0000&currStreakNum=FF4444&sideNums=FF4444&currStreakLabel=FF0000&sideLabels=FF0000&dates=FF3131" />
-    </a>
-  </div>
   
   <!-- Анимированная змейка в красном неоне -->
   <div align="center" style="margin-top: 30px; margin-bottom: 20px; position: relative;">
