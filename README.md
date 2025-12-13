@@ -63,13 +63,24 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" style="filter: hue-rotate(330deg) brightness(1.5) saturate(1.5);"/>
   </div>
   
-  <!-- Эффектные карточки проектов -->
+<!-- Эффектные карточки проектов -->
   <div align="center" style="margin-top: 30px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.3);">
     <h2 style="color: #FF0000; text-shadow: 0 0 5px #FF0000; margin-bottom: 20px;">CLASSIFIED PROJECTS</h2>
-    <a href="https://github.com/Panda404NotFound/bombie_bot">
+    <a href="https://github.com/Panda404NotFound/bombie_bot" style="margin: 5px; display: inline-block;">
       <img src="https://github-readme-stats-nine-sand-76.vercel.app/api/pin/?username=Panda404NotFound&repo=bombie_bot&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF3131&text_color=FF3131"/>
     </a>
+    <a href="https://github.com/Panda404NotFound/eth_backrun_bot" style="margin: 5px; display: inline-block;">
+      <img src="https://github-readme-stats-nine-sand-76.vercel.app/api/pin/?username=Panda404NotFound&repo=eth_backrun_bot&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF3131&text_color=FF3131"/>
+    </a>
+    <a href="https://github.com/Panda404NotFound/binance_arbitrage" style="margin: 5px; display: inline-block;">
+      <img src="https://github-readme-stats-nine-sand-76.vercel.app/api/pin/?username=Panda404NotFound&repo=binance_arbitrage&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF3131&text_color=FF3131"/>
+    </a>
+    </a>
+    <a href="https://github.com/Panda404NotFound/kraken_arbitrage" style="margin: 5px; display: inline-block;">
+      <img src="https://github-readme-stats-nine-sand-76.vercel.app/api/pin/?username=Panda404NotFound&repo=kraken_arbitrage&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&icon_color=FF3131&text_color=FF3131"/>
+    </a>
   </div>
+
   
   <!-- Расширенная контактная секция -->
   <div align="center" style="margin-top: 30px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.3);">
