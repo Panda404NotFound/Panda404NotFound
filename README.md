@@ -1,5 +1,5 @@
 <div align="center">
-  
+   
   <!-- Анимированный фоновый хедер в красном неоне -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&text=SYSTEM%20OVERRIDE&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=IDENTITY:%20BRAHMAN&descAlignY=55&descAlign=50&strokeWidth=1" width="100%"/>
   
