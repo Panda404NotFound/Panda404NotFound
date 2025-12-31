@@ -27,7 +27,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="filter: hue-rotate(330deg) brightness(1.5) saturate(1.5);" width="100%">
   
 
-  
   <!-- Code Analysis с красным неоном -->
   <div align="center" style="margin-top: 30px; margin-bottom: 20px; background: linear-gradient(to right, #0D1117, #151515, #0D1117); padding: 20px; border-radius: 10px; box-shadow: 0 0 10px 0 rgba(255,0,0,0.5);">
     <h2 style="color: #FF3131; text-shadow: 0 0 5px #FF3131; margin-bottom: 20px;">⌨️ CODE ANALYSIS</h2>
